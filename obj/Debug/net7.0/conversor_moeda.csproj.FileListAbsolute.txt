@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\conversor_moeda\bin\Debug\net7.0\conversor_moeda.exe
+C:\Users\38985141880\Desktop\conversor_moeda\bin\Debug\net7.0\conversor_moeda.deps.json
+C:\Users\38985141880\Desktop\conversor_moeda\bin\Debug\net7.0\conversor_moeda.runtimeconfig.json
+C:\Users\38985141880\Desktop\conversor_moeda\bin\Debug\net7.0\conversor_moeda.dll
+C:\Users\38985141880\Desktop\conversor_moeda\bin\Debug\net7.0\conversor_moeda.pdb
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.dll
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\refint\conversor_moeda.dll
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.pdb
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\conversor_moeda.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\conversor_moeda\obj\Debug\net7.0\ref\conversor_moeda.dll
